@@ -1,0 +1,45 @@
+.main-sec {
+    background: url('images/image-1.png');
+    color: #fff;
+    padding: 5rem;
+}
+.logo {
+    width: 7%;
+    padding-right:4px;
+}
+.part {
+    background: url('images/image-2.png');
+    margin: 10rem 0 0 0;
+    padding: 3rem 20rem;
+    color: #fff
+}
+.t-light {
+    color: rgb(199, 194, 194)
+}
+.card {
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.section-2 {
+    padding: 5rem 12rem 12rem 12rem;
+    background-color: #dfdddd;
+    position: relative;
+}
+.section-3 {
+    position: absolute;
+    top: 44rem;
+    left: 6rem;
+}
+.section-4 .card-1 {
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    background-color: #fff;
+}
+.card-1 img {
+    width: 100%;
+}
+.section-4  {
+    background-color: #dfdddd;
+    padding: 6rem 8rem;
+}
+.pl-3 {
+    padding: 20px 20px 0 20px !important;
+}
